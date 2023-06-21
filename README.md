@@ -7,12 +7,12 @@
 Welcome to SolveGPT, an AI-powered study assistant designed to help students of all levels in their educational journey. Whether you need assistance with solving complex math problems, understanding challenging concepts, or finding relevant study materials, SolveGPT is here to lend a helping hand. Powered by cutting-edge GPT (Generative Pre-trained Transformer) technology, SolveGPT offers a range of features and resources to support your learning process.
 
 <p align="center">
-  <img src="solvegpt-screenshot.png" alt="SolveGPT Screenshot">
+  <img src="https://i.ibb.co/YBkhKbL/Screenshot-315.png" alt="SolveGPT Screenshot">
 </p>
 
 ## 🚀 Demo
 
-[Visit our live demo](https://www.solvegpt.com) to experience the power of SolveGPT firsthand. Explore its various functionalities and witness how it can simplify your studying efforts. We are constantly improving SolveGPT to deliver the best user experience and ensure it meets your needs.
+[Visit our live demo](https://solvegpt.vercel.app/) to experience the power of SolveGPT firsthand. Explore its various functionalities and witness how it can simplify your studying efforts. We are constantly improving SolveGPT to deliver the best user experience and ensure it meets your needs.
 
 ## 🔥 Features
 
@@ -32,7 +32,7 @@ To try SolveGPT locally, follow these steps:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/solvegpt.git
+   git clone https://github.com/Techiral/SolveGPT.git
    ```
 2. Install the dependencies:
    
